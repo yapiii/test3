@@ -30,4 +30,4 @@ jobs:
         env:
           DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
         with:
-          model: alibaba-cn/qwen-coder-turbo-0919
+          model: alibaba-cn/glm-5
